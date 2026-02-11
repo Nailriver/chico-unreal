@@ -1,0 +1,40 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChicoUnreal", "Intermediate\ProjectFiles\ChicoUnreal.vcxproj", "{B9B28610-2414-4D63-AE35-C6C1E2008B45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{1CDE5014-7F40-4FDA-B2E7-583F724B1F9D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{19764790-F56E-488C-9E0D-6AF2E52A1EEB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Visualizers", "Visualizers", "{2D5B2626-E5BE-4F85-B9C7-3E758C49AB3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DebugGame Editor|Win64 = DebugGame Editor|Win64
+		DebugGame|Win64 = DebugGame|Win64
+		Development Editor|Win64 = Development Editor|Win64
+		Development|Win64 = Development|Win64
+		Shipping|Win64 = Shipping|Win64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9B28610-2414-4D63-AE35-C6C1E2008B45}.DebugGame Editor|Win64.ActiveCfg = DebugGame Editor|Win64
+		{B9B28610-2414-4D63-AE35-C6C1E2008B45}.DebugGame Editor|Win64.Build.0 = DebugGame Editor|Win64
+		{B9B28610-2414-4D63-AE35-C6C1E2008B45}.DebugGame|Win64.ActiveCfg = DebugGame|Win64
+		{B9B28610-2414-4D63-AE35-C6C1E2008B45}.DebugGame|Win64.Build.0 = DebugGame|Win64
+		{B9B28610-2414-4D63-AE35-C6C1E2008B45}.Development Editor|Win64.ActiveCfg = Development Editor|Win64
+		{B9B28610-2414-4D63-AE35-C6C1E2008B45}.Development Editor|Win64.Build.0 = Development Editor|Win64
+		{B9B28610-2414-4D63-AE35-C6C1E2008B45}.Development|Win64.ActiveCfg = Development|Win64
+		{B9B28610-2414-4D63-AE35-C6C1E2008B45}.Development|Win64.Build.0 = Development|Win64
+		{B9B28610-2414-4D63-AE35-C6C1E2008B45}.Shipping|Win64.ActiveCfg = Shipping|Win64
+		{B9B28610-2414-4D63-AE35-C6C1E2008B45}.Shipping|Win64.Build.0 = Shipping|Win64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B9B28610-2414-4D63-AE35-C6C1E2008B45} = {1CDE5014-7F40-4FDA-B2E7-583F724B1F9D}
+	EndGlobalSection
+EndGlobal

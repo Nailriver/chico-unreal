@@ -1,0 +1,32 @@
+# Unreal Engine Generated Files
+Intermediate/
+DerivedDataCache/
+Saved/
+Build/
+
+# Binary files (keep folder structure via .gitkeep)
+Binaries/**
+!Binaries/.gitkeep
+
+# Content folder (excluded per project requirement)
+Content/
+
+# Visual Studio
+.vs/
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# User-specific files
+*.user
