@@ -8,8 +8,8 @@ Build/
 Binaries/**
 !Binaries/.gitkeep
 
-# Content folder (excluded per project requirement)
-Content/
+# Content folder (tracked via Git LFS)
+Content/Developers/
 
 # Visual Studio
 .vs/
